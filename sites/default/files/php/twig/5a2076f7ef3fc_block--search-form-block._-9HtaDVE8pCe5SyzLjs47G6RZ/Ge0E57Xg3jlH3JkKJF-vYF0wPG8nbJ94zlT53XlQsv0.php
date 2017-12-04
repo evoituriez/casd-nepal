@@ -1,6 +1,6 @@
 <?php
 
-/* @classy/block/block--search-form-block.html.twig */
+/* core/themes/classy/templates/block/block--search-form-block.html.twig */
 class __TwigTemplate_3f1b43b3817fe6b644b11f2517ed7110e0a19d4d1a72d64a42b366122f2f2ea1 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
@@ -85,7 +85,7 @@ class __TwigTemplate_3f1b43b3817fe6b644b11f2517ed7110e0a19d4d1a72d64a42b366122f2
 
     public function getTemplateName()
     {
-        return "@classy/block/block--search-form-block.html.twig";
+        return "core/themes/classy/templates/block/block--search-form-block.html.twig";
     }
 
     public function isTraitable()
@@ -108,6 +108,6 @@ class __TwigTemplate_3f1b43b3817fe6b644b11f2517ed7110e0a19d4d1a72d64a42b366122f2
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@classy/block/block--search-form-block.html.twig", "/Applications/MAMP/htdocs/Site_CASD_Nepal/core/themes/classy/templates/block/block--search-form-block.html.twig");
+        return new Twig_Source("", "core/themes/classy/templates/block/block--search-form-block.html.twig", "/Applications/MAMP/htdocs/Site_CASD_Nepal/core/themes/classy/templates/block/block--search-form-block.html.twig");
     }
 }
