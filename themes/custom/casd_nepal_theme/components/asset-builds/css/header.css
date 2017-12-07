@@ -7,6 +7,10 @@
 
 /*------------------------------------------------------------------------*/
 
+.header {
+  max-width: 1165px;
+  margin:auto;
+}
 
 .toolbar-lining clearfix {
   margin:50px 0;
