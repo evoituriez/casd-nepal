@@ -85,22 +85,21 @@
 }
 
 .header .main-menu ul.menu {
-  float: left;
+  float: right;
   margin: 10px;
   padding: 15px 30px;
-  width: 100%;
 }
 
 .header .main-menu ul li {
   display: inline-block;
   padding: 0;
   margin: 10px 15px;
+  font-size: 0.8em;
   text-transform: uppercase;
 }
 
 .header .main-menu ul li a {
   text-decoration: none;
-  font-size: 1.2em;
   text-align: center;
 }
 
@@ -111,4 +110,8 @@
 .header .main-menu ul li a.is-active {
   color: #4f84c0;
   text-decoration: none;
+}
+
+.layout-3col .slideshow_hp {
+  max-width: inherit;
 }
