@@ -1,0 +1,9 @@
+# casd_nepal.info.yml
+name: Casd_nepal
+type: theme
+base theme: classy
+description: 'Tutorial Openclassroom'
+core: 8.x
+package: Lovecraft
+libraries:
+  - casd_nepal/styles-globaux
