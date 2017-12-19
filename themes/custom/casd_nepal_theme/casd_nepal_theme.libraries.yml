@@ -112,6 +112,11 @@ nav-menu:
     component:
       components/asset-builds/css/nav-menu.css: {}
 
+responsive-menu:
+  css:
+    component:
+      components/asset-builds/css/responsive-menu.css: {}
+
 navbar:
   css:
     component:
