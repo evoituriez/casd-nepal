@@ -4,3 +4,7 @@ styles-globaux:
   css:
     theme:
       css/styles.css: {}
+  js:
+    js/custom.js: {}
+  dependencies:
+    - core/jquery
